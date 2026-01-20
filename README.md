@@ -22,5 +22,5 @@ TASKS:
 - Designed, wired, and soldered the circuit independently
 
 APPLICATION:
-I have designed a remote controlled car that was paired with this remote.
-I wish to program a two player interative real-time game that could be played with the remotes. 
+- I have designed a remote controlled car that was paired with this remote.
+- I wish to program a two player interative real-time game that could be played with the remotes. 
