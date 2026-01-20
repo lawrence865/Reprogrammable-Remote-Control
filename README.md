@@ -1,6 +1,7 @@
 # Reprogrammable-Remote-Control
 
 OVERVIEW:
+
 This project is a custom, reprogrammable remote controller built around an Arduino microcontroller. The device features two joysticks and two buttons, similar in layout to a controller, and can communicate with other systems using either RF24 wireless radio or serial communication. 
 The goal of this project was to create a versatile, reusable controller that could be used to operate multiple future projects (e.g., robots, vehicles, games) without needing to redesign a new control interface each time.
 The controller is fully self-contained with built-in batteries, a custom 3D-printed enclosure, and integrated electronics and circuits. 
